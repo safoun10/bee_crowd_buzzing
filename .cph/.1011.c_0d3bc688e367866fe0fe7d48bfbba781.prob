@@ -1,0 +1,1 @@
+{"name":"Local: 1011","url":"c:\\Users\\safou\\Desktop\\beeCrowd\\1011.c","tests":[{"id":1775722982763,"input":"3","output":"VOLUME = 113.097"},{"id":1775723015470,"input":"15","output":"VOLUME = 14137.155"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\safou\\Desktop\\beeCrowd\\1011.c","group":"local","local":true}
