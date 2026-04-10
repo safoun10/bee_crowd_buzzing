@@ -18,15 +18,15 @@ int main()
         amount %= notes[i];
     }
 
-    float left = amount + rest;
+    int left = round((amount + rest) * 100);
 
-    float coins[] = {1.00, 0.50, 0.25, 0.10, 0.05, 0.01};
+    int coins[] = {100, 50, 25, 10, 5, 1};
     printf("MOEDAS:\n");
     for (int i = 0; i < 6; i++)
     {
         int count = left / coins[i];
-        printf("%d moeda(s) de R$ %.2f\n", count, coins[i]);
-        left = fmod(left, coins[i]);
+        printf("%d moeda(s) de R$ %.2f\n", count, coins[i] / 100.0);
+        left %= coins[i];
     }
 
     return 0;
