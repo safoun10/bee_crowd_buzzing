@@ -7,8 +7,7 @@
 int main()
 {
     int distance;
-    float fuel;
-    scanf("%d %f", &distance, &fuel);
-    printf("%.3f km/l\n", (distance / fuel));
+    scanf("%d", &distance);
+    printf("%d minutos\n", distance * 2);
     return 0;
 }
