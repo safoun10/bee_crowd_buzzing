@@ -1,1 +1,0 @@
-{"name":"Local: 1013","url":"c:\\Users\\safou\\Desktop\\beeCrowd\\1013.c","tests":[{"id":1775727682916,"input":"7 14 106","output":"106 eh o maior"},{"id":1775727701808,"input":"217 14 6","output":"217 eh o maior"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\safou\\Desktop\\beeCrowd\\1013.c","group":"local","local":true}

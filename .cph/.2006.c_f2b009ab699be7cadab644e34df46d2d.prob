@@ -1,1 +1,0 @@
-{"name":"Local: 2006","url":"c:\\Users\\safou\\Desktop\\Problem Solving\\beeCrowd\\2006.c","tests":[{"id":1775791680403,"input":"1\n1 2 3 2 1","output":"2"},{"id":1775791695871,"input":"3\n4 1 1 2 1","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\safou\\Desktop\\Problem Solving\\beeCrowd\\2006.c","group":"local","local":true}

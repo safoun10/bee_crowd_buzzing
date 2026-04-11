@@ -1,1 +1,0 @@
-{"name":"Local: 1006","url":"c:\\Users\\safou\\Desktop\\beeCrowd\\1006.c","tests":[{"id":1775665618722,"input":"5.0\n6.0\n7.0","output":"MEDIA = 6.3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\safou\\Desktop\\beeCrowd\\1006.c","group":"local","local":true}
