@@ -1,0 +1,1 @@
+{"name":"Local: 1101","url":"c:\\Users\\safou\\Desktop\\Problem Solving\\beeCrowd\\110\\1101.c","tests":[{"id":1776403831287,"input":"5 2\n6 3\n5 0","output":"2 3 4 5 Sum=14\n3 4 5 6 Sum=18"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\safou\\Desktop\\Problem Solving\\beeCrowd\\110\\1101.c","group":"local","local":true}
