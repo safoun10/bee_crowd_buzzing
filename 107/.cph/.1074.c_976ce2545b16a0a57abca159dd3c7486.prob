@@ -1,0 +1,1 @@
+{"name":"Local: 1074","url":"c:\\Users\\safou\\Desktop\\Problem Solving\\beeCrowd\\107\\1074.c","tests":[{"id":1776393017466,"input":"4\n-5\n0\n3\n-4","output":"ODD NEGATIVE\nNULL\nODD POSITIVE\nEVEN NEGATIVE"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\safou\\Desktop\\Problem Solving\\beeCrowd\\107\\1074.c","group":"local","local":true}

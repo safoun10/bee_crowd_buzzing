@@ -1,0 +1,1 @@
+{"name":"Local: 1099","url":"c:\\Users\\safou\\Desktop\\Problem Solving\\beeCrowd\\109\\1099.c","tests":[{"id":1776397962233,"input":"7\n4 5\n13 10\n6 4\n3 3\n3 5\n3 4\n3 8","output":"0\n11\n5\n0\n0\n0\n12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\safou\\Desktop\\Problem Solving\\beeCrowd\\109\\1099.c","group":"local","local":true}
